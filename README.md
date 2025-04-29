@@ -1,7 +1,3 @@
-Here’s a sample **README.md** file for your project:
-
----
-
 # **BlinkIT Grocery Data Dashboard**
 
 ## **Project Overview**
@@ -54,13 +50,16 @@ The analysis demonstrates key **Power BI features** and advanced **data visualiz
 
 
 ### **Overall Dashboard**
-![Dashboard Overview](Screenshot/dashboard.png "Dashboard Overview")
+![image](https://github.com/user-attachments/assets/ff864f45-77c1-43ca-ac56-11f0f3dc7865)
+
+
 
 ### **Sales Trends Visualization**
-![Sales Trends](Screenshot/2page.png "Sales Trends Visualization")
+![image](https://github.com/user-attachments/assets/15fe8bc4-04b4-4d2c-ac3c-a97f84387715)
+
 
 ### **Customer Insights**
-![ Insights](Screenshot/3.png "Customer Insights")
+![image](https://github.com/user-attachments/assets/4ffd36d9-51f7-4eae-86a3-5a8ee178ae6a)
 
 
 ---
@@ -73,5 +72,5 @@ This dashboard highlights the power of **data-driven decision-making** by provid
 
 Feel free to connect or reach out for any queries or collaborations:
 
-- **LinkedIn**: (https://www.linkedin.com/in/manish-sharma-b86aa1195)  
-- **Email**: [manish.kota2000.com](manish.kota2000.com)
+- **LinkedIn**: (https://www.linkedin.com/in/manan-anand-729879214/)
+- **Email**: (manananandofficial@gmail.com)
