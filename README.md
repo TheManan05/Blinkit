@@ -1,4 +1,4 @@
-# **BlinkIT Grocery Data Dashboard**
+# **Blinkit Grocery Data Dashboard**
 
 ## **Project Overview**
 This project provides insights into grocery data using **Power BI**, focusing on:
